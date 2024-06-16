@@ -23,4 +23,5 @@ This dashboard utilizes the 2015 flight delays and cancellations dataset availab
 Ensure you have the following installed to use this dashboard:
 - Power BI Desktop
 - Internet access to download the latest version of the dataset
-
+## Power BI Dashboard
+- [Power BI Dashboard](https://github.com/ayushmeher/Power-BI-Flight-Delays-and-Cancellations-2015/blob/main/PowerBI%20Dashboard.pdf)
